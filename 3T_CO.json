@@ -1,0 +1,67 @@
+{
+    "offer_details": {
+        "company": "ООО «СЕАН-Бэттери»",
+        "date": "20 февраля 2024 г.",
+        "introduction": "Меня зовут Маттиа, я являюсь специалистом отдела продаж компании «Сеан-Бэттери».",
+        "product_description": "По вашему Тех. заданию могу Вам предложить вилочный погрузчик HANGCHA CPCD30-XRW10. Компания HC (HANGCHA) китайский бренд, известный во всем мире как надежный производитель погрузчиков широкого спектра с отличным качеством комплектующих и низкими ценами на продукцию."
+    },
+    "product_offer": {
+        "product_name": "Дизельный погрузчик HANGCHA CPCD30-XRW10",
+        "quantity": 2,
+        "unit_price_with_vat": "2 400 000 Руб.",
+        "total_price_with_vat": "4 800 000 Руб.",
+        "total_price_without_vat": "4 000 000 Руб.",
+        "delivery_period": "до 80 рабочих дней",
+        "payment_terms": [
+            "50% предоплата",
+            "50% по готовности товара на заводе"
+        ],
+        "financing_options": {
+            "leasing": "да, работаем со всеми лизинговыми компаниями России",
+            "foreign_currency_contract": "да, юани",
+            "credit_purchase": "да",
+            "installment_plan": "возможна рассрочка 50% на срок до 3 месяцев"
+        },
+        "warranty": "1 год или 2000 мч",
+        "delivery_terms": "Доставка до Вашего склада включена в стоимость товара",
+        "offer_validity_period": "60 рабочих дней"
+    },
+    "technical_specifications": {
+        "drive_type": "Дизель",
+        "cabin_with_heater": "Да",
+        "nominal_load_capacity_kg": 3000,
+        "load_center_distance_mm": 500,
+        "operational_weight_kg": 3850,
+        "tires": "суперэластик",
+        "front_tire_size": "7.00-12-12PR",
+        "rear_tire_size": "6.00-9-10PR",
+        "wheels_number_front_rear": "2×/2",
+        "mast_carriage_tilt_forward_backward_degree": "6/12",
+        "height_with_mast_lowered_mm": 1999,
+        "free_lift_mm": 1450,
+        "lifting_height_mm": 4800,
+        "mast_type": "Триплекс со свободным ходом",
+        "height_with_mast_raised_mm": 5220,
+        "side_shift": "Да",
+        "overhead_guard_height_cabin_mm": "2120(2200)",
+        "overall_length_mm": 3680,
+        "fork_length_mm": 2610,
+        "overall_width_mm": "1155/1595",
+        "engine_type": "ISUZU/C240NKFC",
+        "engine_power_kw": 354,
+        "engine_torque_rpm": 2500,
+        "paper_roll_clamps": "Да",
+        "number_of_cylinders_engine_displacement_cc": "4/2369"
+    },
+    "contact_info": {
+        "personal_manager": "Амико Маттиа",
+        "phone": "+7 (985) 150 2506",
+        "email": "400@sean-battery.com",
+        "additional_contact": {
+            "sales_email": "sales@sean-battery.com",
+            "additional_phone": "+7 499 342 00 06",
+            "info_email": "info@sean-battery.com",
+            "website": "Sean Tech — Складская техника (sean-tech.ru)"
+        }
+    }
+}
