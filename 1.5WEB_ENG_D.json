@@ -1,0 +1,73 @@
+{
+    "data": {
+        "product": "Hangcha CPD15-AEY2-I",
+        "price": {
+            "current_price": 1995000,
+            "original_price": 2495000,
+            "currency": "RUB"
+        },
+        "specifications": {
+            "country_of_origin": "China",
+            "manufacturer": "HANGCHA GROUP CO., LTD",
+            "brand": "HC",
+            "capacity_kg": 1500,
+            "lifting_height_mm": 3000,
+            "dimensions_mm": "3018 x 1120 x 2130",
+            "fork_size_mm": "920x120x35",
+            "working_corridor_width_mm": 3426,
+            "operational_weight_incl_battery_kg": 2940,
+            "travel_speed_forward_backward_kmph": "14/14",
+            "lifting_speed_mm_per_sec": 440,
+            "clearance_mm": 110,
+            "max_gradient_percent_degree": "13 / 7.4",
+            "tires": "pneumatic",
+            "tire_size_front_rear": "6.00 - 9 / 5.00 - 8",
+            "engine_type": "electric",
+            "control_system": "CURTIS",
+            "movement_lift_motor": "AC/DC",
+            "battery_capacity_V_Ah": "80V/220Ah",
+            "battery_and_charger_included": true,
+            "equipment_failure_rate_hours": "10000 -15000",
+            "service_life_years": 10,
+            "mast_options": {
+                "VM_300": "3 m",
+                "VM_350": "3.5 m",
+                "VM_500": "5 m",
+                "VFM_300": "3 m with free lift",
+                "VFHM_480": "4.8 m with free lift",
+                "VFHM_600": "6 m with free lift",
+                "VFHM_700": "7 m with free lift"
+            }
+        },
+        "model_features": {
+            "appearance": "Compact and maneuverable with a simple and sturdy appearance, featuring a combination of straight lines and streamlined curved surfaces.",
+            "comfort": "Sealed cover for good rain resistance, large brake pedal with regenerative braking function to reduce driver fatigue, wide-angle mast for minimal obstruction of operator's view, and enlarged fork carriage hole for wider view.",
+            "maintenance": "Front-opening cover for easy charging and maintenance, easily accessible and tool-free serviceable control electrical parts and fuse, side-mounted oil tank for easy fluid level check and oil adding.",
+            "safety": "Additional lowering lock function for increased safety when the driver leaves the seat, soft landing and lift buffering with electronic control for effective cargo protection, optional hand brake with audible alarm.",
+            "stability": "Rear-positioned battery for improved longitudinal stability."
+        },
+        "options_and_accessories": {
+            "high_capacity_battery": true,
+            "charger": true,
+            "mirrors": "Left and right rear view",
+            "backrest_extension": true,
+            "different_length_forks": true,
+            "rear_working_light": true,
+            "dual_front_tire": true,
+            "solid_superelastic_tire": true,
+            "non_marking_solid_tire": true,
+            "multi_way_valve_options": [
+                "Triple",
+                "Four-way"
+            ],
+            "side_shifter": true,
+            "additional_attachments": true,
+            "maintenance_free_battery": true,
+            "PVC_canopy": true,
+            "windshield": true,
+            "warning_light": true,
+            "blue_safety_light": true,
+            "OPS_system": true
+        }
+    }
+}
