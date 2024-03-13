@@ -9,8 +9,6 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableLambda, RunnablePassthrough
 
-# Your OpenAI API key
-openai_api_key = ""
 
 def load_xlsx(uploaded_file):
     text = ""  # Initialize the text variable as an empty string
